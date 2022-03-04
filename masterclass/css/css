@@ -1,0 +1,16 @@
+h1 { 
+
+	color: black;
+
+}
+
+body{ 
+	background: lightblue;(100, 100, 50);
+}
+
+   .sticky {
+   	position: fixed;
+   	background-color: black;
+   	display: block;
+   	z-index: 900;
+   	bottom: 0;
